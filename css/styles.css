@@ -1,13 +1,15 @@
+/**********
+      COMMoN
+***********/
+
 body {
-  background-color:#cce7e8 ;
+  font-family: "monospace",sans-serif;
 }
-h1,h3 {
-  color: #87431d;
+.font-primary {
+  color: #00abae;
 }
-hr{
-  border-style: none;
-  border-top-style: dotted;
-  color:green;
-  border-width: 5px;
-  width: 50%
+.title-icon {
+  font-size: 20px;
+  font-weight: bold;
 }
+
