@@ -6,7 +6,7 @@ body {
   font-family: "monospace",sans-serif;
   }
 .font-primary {
-  color: green;
+  color:chocolate;
 }
 
 .navbar-brand:hover {
@@ -59,7 +59,7 @@ About
 
 #about .skills {
   font-size: 14px;
-  color:green;
+  color:chocolate;
   margin-bottom: 10px;
 }
 
@@ -81,5 +81,5 @@ About
   background-color:grey;
 }
 .icon-linkedin:hover {
-  background-color: blue;
+  background-color: grey;
 }
