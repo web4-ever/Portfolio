@@ -12,7 +12,7 @@ CSS
 
 ## Installation
 
-No need install any software,just open up index.html
+No need to install any software,just open up index.html
 
 ## How to use ?
 
